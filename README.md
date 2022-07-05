@@ -1,6 +1,6 @@
 
 # Welcome to the AI.org website.
- [x] 创建项目
+
 >AI.org 一个开源代码项目
 
 |语言|占比|
