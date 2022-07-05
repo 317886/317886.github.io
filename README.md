@@ -1,7 +1,12 @@
-Welcome to my pages!
 
->这里会更新我的最新计划和项目
+# Welcome to the AI.org website.
+- [x] 创建项目
+>AI.org 一个开源代码项目
 
-[my github](https://github.com/317886)
+|语言|占比|
+|:--:|:--:|
+|html|90%|
+|markdown|10%|
 
-版权所有何家麟
+版权所有xxx([github](https://github.com/317886))©
+[AI.org简介文档](C:\Users\admin\Desktop\signin.md)
