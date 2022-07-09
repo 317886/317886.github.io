@@ -1,21 +1,18 @@
+# welcome my GitHub pages!
 
-# Welcome to the AI.org website.
+>这里会有我的最新项目。
 
->AI.org 一个开源代码项目
-
-|语言|占比|
+|语言|比例|
 |:--:|:--:|
-|html|90%|
-|markdown|10%|
+|html|50%|
+|markdown|50%|
 
 
-|语言|使用地|
+|语言|使用点|
 |:--:|:--:|
-|markdown|主页|
-|HTML|登录、个人中心|
+|markdowm|主页、介绍文档|
+|html|登录界面|
 
-[员工测试性网站](https://317886.github.io/hjl.github.io/)
-
-版权所有xxx([github](https://github.com/317886))©
-
-[AI.org简介文档](C:\Users\admin\Desktop\signin.md)
+[{github}](https://github.com/317886)
+this page is by [the github317886](https://github.317886)
+- [x]
