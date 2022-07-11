@@ -17,7 +17,7 @@
 
 [{github}](https://github.com/317886)
 
-[最新成果网站公布](https://github.com/317886/317886.github.io/blob/main/css.html)
+[最新成果网站公布](https://317886.github.io/abc.github.io/)
 
 this page is by [the github317886](https://github.317886)
 
